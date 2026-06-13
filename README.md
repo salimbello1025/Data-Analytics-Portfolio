@@ -32,16 +32,6 @@ my data analysis projects using Python and Microsoft Excel.
 - Theft offences were the most common crime type (33.3%)
 
 ---
-
-### 2. HR Analytics Dashboard (In Progress)
-**Dataset:** HR Analytics — 1,480 employees, 38 columns  
-**Tools:** Python & Excel  
-**What I did:**
-- Explored and cleaned HR employee data
-- Built interactive dashboard showing attrition, salary and satisfaction
-
----
-
 ## 📬 Contact
 - **Name:** Salim Bello Muhammad
 - **Program:** 3MTT Data Analytics
